@@ -25,7 +25,7 @@ export const Login: React.FC = () => {
           {/* ロゴ画像表示エリアのサイズを h-60 w-60 に変更 */}
           <div className="mx-auto h-60 w-60 flex items-center justify-center">
             <img 
-              src="/stockalchemist.jpg" 
+              src="https://github.com/kosuke-eth/StockAlchemistPro_mock/blob/main/stockalchemist.jpg?raw=true" 
               alt="Stock Alchemist Logo" 
               className="h-full w-full object-contain rounded-full" 
             />
